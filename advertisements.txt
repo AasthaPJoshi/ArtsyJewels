@@ -1,0 +1,14 @@
+REDIRECT advert.asp 
+*
+images/ad/1.jpeg
+https://www.w3schools.com
+Design
+50
+images/ad/3.jpeg
+https://www.w3schools.com
+Design
+50
+images/ad/E.jpeg
+https://www.w3schools.com
+Design
+50
